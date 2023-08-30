@@ -125,7 +125,11 @@
   box-sizing: border-box;
 }
 
-a { text-decoration: none; }
+a { 
+  color: hsl(45, 100%, 72%);
+  text-decoration: none;
+  background-color: transparent;
+}
 
 li { list-style: none; }
 
